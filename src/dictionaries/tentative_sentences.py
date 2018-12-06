@@ -1,0 +1,57 @@
+
+TENTATIVE = [
+    "Antifascistas de Gerona intentan enseñar democracia a hostias a los 'fachas' de VOX",
+    "Condenado un inmigrante rumano por violar y dejar embarazadas a sus dos hijas",
+    "Detenido un marroquí por sacar el pene y restregárselo a una clienta en la cola de Decathlon",
+    "Vecinos de Tenerife evitan que un marroquí viole a una chica española",
+    "Una mujer, de una etnia que no podemos decir, agrede a un taxista por no llevarla a comprar droga",
+    "Hordas de 'guarros' de extrema izquierda intentan boicotear la presentación de ADÑ en Almería",
+    "Sánchez se caga vivo: pide disculpas por la expulsión de Rufián",
+    "¡Profanan la tumba de Franco en El Valle de los Caídos!",
+    "Tejerina, del PP, denuncia que la educación en Andalucía hace niños retrasados",
+    "Alberto Garzón llama 'bocazas' a Llarena y pide 'libertad' para los independentistas",
+    "Mossos d'Esquadra defienden España y cargan contra los frikis independentistas",
+    "Marta Rovira se fuga de España",
+    "Puigdemont sigue jugando ajedrez con el Estado: ahora, retira la petición de voto delegado",
+    "Podemos y el PSOE votan en el Congreso que las menores puedan abortar sin freno",
+    "Venganza soberanista en Cataluña: afines en las instituciones tras la fuga masiva de empresas",
+    "La curva de tipos se invierte por primera vez en una década y las dudas arrastran a Wall Street",
+    "Llanto por el consenso y la vitalidad del 78",
+    "El cambio votado es de régimen",
+    "Colau cede para salvar el 30% en vivienda",
+    "La corte de las mentiras de Donald Trump",
+    "La iniciativa privada respira en Cuba",
+    "Todos los mentirosos del presidente",
+    "El Gobierno belga se tambalea por una disputa sobre inmigración",
+    "La liberación de la cúpula de Duarte evidencia las carencias de la lucha anticorrupción en México"
+
+]
+
+NON_TENTATIVE = [
+    "La Policía deporta a los ultras argentinos de Boca y River que llegan a España ",
+    "Franco, gran protagonista de la Diada de Cataluña",
+    "El Ministerio del Interior envía a 300 guardias civiles a Cataluña",
+    "El PSOE de Pedro Sánchez presenta una moción de censura contra el Gobierno de Rajoy",
+    "Rajoy define como 'casos aislados' las tramas de corrupción del PP",
+    "La Justicia anula el cambio de nombre de la calle Hermanos García Noblejas de Madrid",
+    "Puigdemont dará su discurso de investidura desde el Parlamento flamenco",
+    "El Gobierno recurre al Constitucional la investidura de Puigdemont",
+    "Atentado en Nueva York: explosión en Manhattan",
+    "Trapero reconoce la autoridad del Estado y acepta su cese",
+    "La curva de tipos se invierte por primera vez en una década y las dudas arrastran a Wall Street",
+    "El Banco de España prohibirá las hipotecas con peligro de burbuja",
+    "Fevec alerta de que se está creando un monopolio con la vivienda",
+    "La detención de una alto cargo de Huawei amenaza con provocar una nueva crisis entre China y EEUU"
+    "Pablo Casado anuncia que el PP bloqueará cualquier reforma de la Constitución",
+    "Un joven detenido y 20 personas heridas en Girona en una protesta contra un acto de Vox en el 40 aniversario de la Constitución",
+    "El hombre que disparó a su ex pareja en Pontevedra tenía una condena y orden de alejamiento",
+    "La Audiencia de Madrid rechaza la petición de Rato y ordena mantener el embargo de sus bienes",
+    "Un hombre dispara a su mujer y se pega dos tiros en un nuevo caso de violencia de género en Pontevedra",
+    "El juez imputa a Bárcenas y a su mujer para que aclaren los manuscritos sobre pagos en B robados en la 'operación Kitchen'",
+    "Tres detenidos en Salamanca, uno de ellos acusado de un homicidio, y recuperados dos niños sustraídos en el municipio toledano de Illescas",
+    "Investigan una web que ofrece un 'tour' por los lugares que recorrieron los agresores de La Manada",
+    "Cierran un colegio en Cantabria tras aparecer el cadáver de un vecino en el patio",
+    "El turismo de negocios deja en Euskadi un 55% más dinero que hace tres años",
+    "Los afectados por derrames de petróleo en la Amazonia peruana tienen metales pesados en el cuerpo",
+    "Detenidos en Palma los padres de un bebé que ingresó en el hospital con altos niveles de cocaína"
+]
